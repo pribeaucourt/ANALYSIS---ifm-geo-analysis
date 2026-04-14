@@ -1561,17 +1561,72 @@ function switchTab(tab, btn) {
     <div class="w-2 h-8 bg-ifm-gray rounded-full"></div>
     <h2 class="text-2xl font-bold text-ifm-base">5. Cas particuliers</h2>
   </div>
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-    <div class="card bg-gray-50 rounded-xl p-5 border border-gray-200">
-      <h3 class="font-bold text-ifm-base text-lg">reddit.com</h3>
-      <p class="text-xl font-bold text-ifm-accent mt-2">4 consultations &mdash; 0% mention ifm</p>
-      <p class="text-sm text-ifm-gray mt-2">Participation communautaire recommandée dans les subreddits industriels (r/PLC, r/IOT). <span class="text-ifm-accent font-medium">Pas de contenu commercial direct.</span></p>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
+
+    <!-- Reddit -->
+    <div class="card bg-gray-50 rounded-xl border border-gray-200 overflow-hidden">
+      <div class="p-5">
+        <div class="flex items-center justify-between">
+          <h3 class="font-bold text-ifm-base text-lg">reddit.com</h3>
+          <span class="text-xs bg-ifm-accent/15 text-ifm-accent px-2 py-0.5 rounded-full font-bold">4 consultations &mdash; 0% ifm</span>
+        </div>
+        <p class="text-sm text-ifm-gray mt-3">Reddit est consulte par ChatGPT exclusivement via le subreddit <strong>r/PLC</strong>. Les discussions portent sur IO-Link (choix de masters, retours terrain, comparaisons). ifm n'y est jamais mentionne.</p>
+        <div class="mt-4">
+          <p class="text-xs font-medium text-ifm-base uppercase mb-2">URLs consultées par ChatGPT</p>
+          <div class="space-y-2">
+            <div class="bg-white rounded-lg p-2.5 border border-gray-100">
+              <a href="https://www.reddit.com/r/PLC/comments/1k4kuve" target="_blank" class="text-xs text-ifm-blue hover:underline">r/PLC &mdash; Meilleur maitre IO-Link pour les E/S distantes</a>
+              <p class="text-xs text-ifm-gray/60 mt-0.5">Prompt : Quels sont les meilleurs maitres IO-Link pour une ligne de production ?</p>
+            </div>
+            <div class="bg-white rounded-lg p-2.5 border border-gray-100">
+              <a href="https://www.reddit.com/r/PLC/comments/1rnrxzh/iolink_how_often_do_you_utilize_it/" target="_blank" class="text-xs text-ifm-blue hover:underline">r/PLC &mdash; IO-Link : how often do you utilize it?</a>
+              <p class="text-xs text-ifm-gray/60 mt-0.5">Prompt : Existe-t-il des solutions IO-Link pas cheres pour petites installations ?</p>
+            </div>
+            <div class="bg-white rounded-lg p-2.5 border border-gray-100">
+              <a href="https://www.reddit.com/r/PLC/comments/11a4vxq" target="_blank" class="text-xs text-ifm-blue hover:underline">r/PLC &mdash; Discussion IO-Link masters</a>
+              <p class="text-xs text-ifm-gray/60 mt-0.5">Prompt : Quels sont les meilleurs maitres IO-Link pour une ligne de production ?</p>
+            </div>
+            <div class="bg-white rounded-lg p-2.5 border border-gray-100">
+              <a href="https://www.reddit.com/r/PLC/comments/jqdad7" target="_blank" class="text-xs text-ifm-blue hover:underline">r/PLC &mdash; Discussion capteurs IO-Link fiables</a>
+              <p class="text-xs text-ifm-gray/60 mt-0.5">Prompt : Quels capteurs de process IO-Link sont les plus fiables ?</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bg-ifm-accent/5 border-t border-ifm-accent/10 px-5 py-3">
+        <p class="text-xs font-medium text-ifm-accent">Action recommandée</p>
+        <p class="text-xs text-ifm-gray mt-1">Participation organique sur r/PLC : réponses techniques d'experts ifm, partage de retours d'experience, contributions utiles aux discussions IO-Link. <strong>Pas de contenu commercial direct</strong> &mdash; Reddit penalise le spam.</p>
+      </div>
     </div>
-    <div class="card bg-gray-50 rounded-xl p-5 border border-gray-200">
-      <h3 class="font-bold text-ifm-base text-lg">en.wikipedia.org</h3>
-      <p class="text-xl font-bold text-ifm-accent mt-2">1 consultation &mdash; 0% mention ifm</p>
-      <p class="text-sm text-ifm-gray mt-2">Vérifier que les pages IO-Link/capteurs industriels référencent ifm. <span class="text-ifm-accent font-medium">Respecter les regles éditoriales Wikipedia.</span></p>
+
+    <!-- Wikipedia -->
+    <div class="card bg-gray-50 rounded-xl border border-gray-200 overflow-hidden">
+      <div class="p-5">
+        <div class="flex items-center justify-between">
+          <h3 class="font-bold text-ifm-base text-lg">en.wikipedia.org</h3>
+          <span class="text-xs bg-ifm-accent/15 text-ifm-accent px-2 py-0.5 rounded-full font-bold">1 consultation &mdash; 0% ifm</span>
+        </div>
+        <p class="text-sm text-ifm-gray mt-3">Wikipedia est une source d'autorite majeure pour ChatGPT. La page <strong>IO-Link</strong> est consultée mais ne mentionne pas ifm parmi les acteurs du marche.</p>
+        <div class="mt-4">
+          <p class="text-xs font-medium text-ifm-base uppercase mb-2">URL consultée par ChatGPT</p>
+          <div class="space-y-2">
+            <div class="bg-white rounded-lg p-2.5 border border-gray-100">
+              <a href="https://en.wikipedia.org/wiki/IO-Link" target="_blank" class="text-xs text-ifm-blue hover:underline">en.wikipedia.org/wiki/IO-Link</a>
+              <p class="text-xs text-ifm-gray/60 mt-0.5">Prompt : C'est quoi IO-Link et comment ca fonctionne avec des capteurs ?</p>
+            </div>
+          </div>
+        </div>
+        <div class="mt-4 bg-white rounded-lg p-3 border border-gray-100">
+          <p class="text-xs font-medium text-ifm-base mb-1">Etat actuel de la page Wikipedia IO-Link</p>
+          <p class="text-xs text-ifm-gray">La page liste les membres fondateurs de l'IO-Link Consortium mais ne mentionne pas ifm electronic parmi les fabricants notables, alors qu'ifm est l'un des principaux fournisseurs mondiaux de capteurs et masters IO-Link.</p>
+        </div>
+      </div>
+      <div class="bg-ifm-accent/5 border-t border-ifm-accent/10 px-5 py-3">
+        <p class="text-xs font-medium text-ifm-accent">Action recommandée</p>
+        <p class="text-xs text-ifm-gray mt-1">Proposer une modification editoriale de la page IO-Link pour ajouter ifm electronic dans la liste des fabricants notables, avec sources verifiables (communiques de presse, rapports de marche). <strong>Respecter strictement les regles Wikipedia</strong> (neutralite, sources secondaires, pas d'auto-promotion).</p>
+      </div>
     </div>
+
   </div>
 </section>
 
