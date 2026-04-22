@@ -1,0 +1,5496 @@
+[
+  {
+    "url_domain": "ifm.com",
+    "classification": "ifm",
+    "total_url_count": 21,
+    "num_urls": 15,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": null,
+    "ifm_mention_pct": null,
+    "urls": [
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/io-link/introduction",
+        "count": 4,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/technologies/magic-cube/avantages-avec-io-link",
+        "count": 3,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/be/fr/shared/io-link/introduction",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/category/245#:~:text=Quels%20sont%20les%20avantages%20des%20capteurs%20IO-Link,facilite%20leur%20int%C3%A9gration%20dans%20divers%20environnements%20industriels.",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/category/245_030_020",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/ma/fr/category/245_010_010",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/io-link/products/io-link-devices",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/category/245",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/io-link/products/master",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/ma/fr/shared/io-link/introduction",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/us/en/shared/technologies/io-link/technology/technology",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/de/en/category/245_020_010",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/gb/en/shared/io-link/products/io-link-devices",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/io-link/technology/device-features",
+        "count": 1,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.ifm.com/fr/fr/shared/productnews/2017/sps/kit-de-demarrage-maitre-io-link",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "balluff.com",
+    "classification": "competitor",
+    "total_url_count": 20,
+    "num_urls": 18,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 20,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.balluff.com/fr-fr/themes-principaux/lio-link-la-solution-ideale/avantages-de-lio-link",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-fr/principes-de-base-de-lautomatisation/io-link",
+        "count": 2,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-fr/themes-principaux/lio-link-la-solution-ideale/avantages-io-link",
+        "count": 1,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-tr/news/new-io-link-masters",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-fr/themes-principaux/io-link-le-lien-entre-les-objets-des-solutions-intelligentes-pour-une-automatisation-moderne",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-fr/products/areas/A0009/groups/G0901/products/F09105",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-fr/themes-principaux/lio-link-la-solution-ideale/concepts-de-commande-modulaires-avec-li",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-ch/news/nouveaux-maitres-io-link",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/fr-ch/themes-principaux/lio-link-la-solution-ideale/avantages-de-lio-link",
+        "count": 1,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-us/blog/why-some-io-link-gateways-cost-more-and-how-to-choose-the-right-one",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-sg/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-dk/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-kr/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-lt/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-lu/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-be/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-ar/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.balluff.com/en-us/products/dynamic/ZA01A13",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sef-formation.info",
+    "classification": "other",
+    "total_url_count": 11,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 11,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.sef-formation.info/formation/formation-io-link-cube67",
+        "count": 11,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "digikey.fr",
+    "classification": "other",
+    "total_url_count": 10,
+    "num_urls": 3,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 10,
+    "ifm_mention_pct": "30.0%",
+    "urls": [
+      {
+        "url": "https://www.digikey.fr/fr/articles/use-io-link-for-industry-4-0-factories",
+        "count": 5,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.digikey.fr/fr/articles/making-use-of-io-link-in-industrial-applications",
+        "count": 3,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.digikey.fr/fr/articles/what-is-io-link-1-1-and-how-is-it-used",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "industrie40.fr",
+    "classification": "other",
+    "total_url_count": 9,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 94,
+    "best_platform": "linkavista",
+    "traffic": 11928,
+    "dr": 27,
+    "tf": 30,
+    "marketplaces": {
+      "Ereferer": 126,
+      "Linkavista": 94,
+      "Develink": 117,
+      "Poprise": 118,
+      "Paperclub": 139,
+      "Soumettre": 143,
+      "Mistergoodlink": 106,
+      "Growwer": 147,
+      "Prnews": 243,
+      "Publisuites": 150
+    },
+    "domain_count": 9,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://industrie40.fr/technologies/io-link/",
+        "count": 9,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Quels capteurs de process IO-Link sont les plus fiables ?Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "siemens.com",
+    "classification": "competitor",
+    "total_url_count": 9,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 9,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.siemens.com/fr-fr/products/sirius/io-link/",
+        "count": 7,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.siemens.com/fr-ca/products/sirius/io-link/",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "burkert.fr",
+    "classification": "competitor",
+    "total_url_count": 8,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 8,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.burkert.fr/fr/services-et-assistance/telechargement-et-information/glossaire/io-link-la-norme-de-communication-ouverte-pour-capteurs-et-actionneurs",
+        "count": 8,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.rs-online.com",
+    "classification": "other",
+    "total_url_count": 8,
+    "num_urls": 8,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 8,
+    "ifm_mention_pct": "37.5%",
+    "urls": [
+      {
+        "url": "https://fr.rs-online.com/web/p/capteurs-rtd/0350360",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://fr.rs-online.com/web/p/capteurs-rtd/0350410",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": true
+      },
+      {
+        "url": "https://fr.rs-online.com/web/p/capteurs-rtd/0596715",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": true
+      },
+      {
+        "url": "https://fr.rs-online.com/web/p/capteurs-rtd/2625516",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://fr.rs-online.com/web/p/capteurs-rtd/0350401",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://fr.rs-online.com/web/c/automatisme-et-controle-de-process/controles-de-process/transmetteurs-de-temperature/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": true
+      },
+      {
+        "url": "https://fr.rs-online.com/web/content/blog-discovery/maintenance/specificites-capteurs-agroalimentaires",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      },
+      {
+        "url": "https://fr.rs-online.com/web/p/repartiteurs-pour-capteurs/0609622",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "io-link.com",
+    "classification": "other",
+    "total_url_count": 8,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 8,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://io-link.com/smart-industry/why-iiot",
+        "count": 4,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://io-link.com/news/news-detail/io-link-maintenance-cycle",
+        "count": 3,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://io-link.com/smart-industry",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "pepperl-fuchs.com",
+    "classification": "competitor",
+    "total_url_count": 8,
+    "num_urls": 5,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 8,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.pepperl-fuchs.com/en/support/technologies/io-link-communication-technology/maintenance-and-diagnostics-gp33067",
+        "count": 3,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pepperl-fuchs.com/fr-fr/support/technologies/io-link-communication-technology/operating-the-io-link-system-gp33056",
+        "count": 2,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pepperl-fuchs.com/en-us/support/technologies/io-link-communication-technology/maintenance-and-diagnostics-gp33067",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pepperl-fuchs.com/fr-fr/support/technologies/io-link-communication-technology/operating-principle-gp32041",
+        "count": 1,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pepperl-fuchs.com/fr-be/products-gp25581/85182#:~:text=Principaux%20avantages%20en%20un%20coup%20d'%C5%93il%20Interface,une%20consommation%20de%20courant%20plus%20%C3%A9lev%C3%A9e%20incluse",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "shop.directindustry.com",
+    "classification": "other",
+    "total_url_count": 8,
+    "num_urls": 8,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 8,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-intelligente-pt100-0005855504",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-0005856039",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-tc-j-0005851088",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-tc-j-0005859265",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-tc-j-0005857895",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-0005857117",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-0005851348",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://shop.directindustry.com/fr/p/sonde-temperature-0005857163",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "industrie-40.fr",
+    "classification": "other",
+    "total_url_count": 7,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 7,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://industrie-40.fr/technologies/io-link/",
+        "count": 6,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://industrie-40.fr/entreprise-techno/ifm-io-link/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "lextronic.fr",
+    "classification": "other",
+    "total_url_count": 7,
+    "num_urls": 4,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 7,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.lextronic.fr/capteurs-de-temperature-par-infrarouge-10507",
+        "count": 3,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.lextronic.fr/capteur-temperature-10481",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.lextronic.fr/capteurs-infrarouge-passif-10461",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.lextronic.fr/capteur-temperature-sans-contact-101020062-28925.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sensopart.com",
+    "classification": "competitor",
+    "total_url_count": 7,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 7,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sensopart.com/fr/a-la-une/io-link/",
+        "count": 7,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sikafrance.fr",
+    "classification": "other",
+    "total_url_count": 7,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 7,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sikafrance.fr/sika-blog-fr/io-link-fonctionnement-et-avantages/",
+        "count": 7,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "te.com",
+    "classification": "competitor",
+    "total_url_count": 7,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 7,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.te.com/fr/products/sensors/temperature-sensors/resources/rtds-vs-thermocouples.html",
+        "count": 5,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?Quel capteur pour des températures très élevées ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.te.com/fr/faqs/rtds-thermocouples-faqs.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.te.com/fr/products/sensors/temperature-sensors/resources/thermocouple-types.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "autosen.com",
+    "classification": "competitor",
+    "total_url_count": 6,
+    "num_urls": 6,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 6,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://autosen.com/fr/IO-Link/Capteurs-IO-Link",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://autosen.com/fr/A-savoir/Secteurs/Industrie-agroalimentaire",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      },
+      {
+        "url": "https://autosen.com/fr/IO-Link#:~:text=Le%20ma%C3%AEtre%20IO-Link%20assure%20la%20communication%20entre,vers%20le%20logiciel%20ou%20entre%20plusieurs%20ma%C3%AEtres.",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://autosen.com/en/IO-Link/IO-Link-Master",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://autosen.com/fr/IO-Link/IO-Link-Master",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://autosen.com/en/IO-Link/IO-Link-Master/IO-Link-Master-AD001-en",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "mesurex.fr",
+    "classification": "other",
+    "total_url_count": 6,
+    "num_urls": 5,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://mesurex.fr/produits/categories/capteurs-temperature-tete-industrielle/",
+        "count": 2,
+        "prompts": "Comment choisir un capteur de température pour mon application ?Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://mesurex.fr/agroalimentaire/",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.mesurex.fr/produits/categories/pyrometres-haute-temperature/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.mesurex.fr/produits/categories/pyrometres-haute-temperature/pyrometre-tres-haute-temperature-type-a450c-max-2500c",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.mesurex.fr/actualites/comment-choisir-son-capteur-de-temperature-thermocouple-vs-pt100/",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "vega.com",
+    "classification": "competitor",
+    "total_url_count": 6,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 6,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.vega.com/fr-fr/societe/blog/2022/io-link-definition",
+        "count": 4,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.vega.com/fr-ae/industries/agroalimentaire",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.vega.com/fr-fr/industries/agroalimentaire",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "befr.rs-online.com",
+    "classification": "other",
+    "total_url_count": 5,
+    "num_urls": 5,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://befr.rs-online.com/web/p/sensor-connectivity/0609622",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://befr.rs-online.com/web/p/sensor-connectivity/0609531",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://befr.rs-online.com/web/p/sensor-connectivity/0609548",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://befr.rs-online.com/web/p/sensor-connectivity/0609624",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://befr.rs-online.com/web/p/sensor-accessories/2821555",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fluke.com",
+    "classification": "competitor",
+    "total_url_count": 5,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.fluke.com/en-us/learn/blog/calibration/rtd-vs-thermocouple-difference",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.fluke.com/fr-fr/produits/mesure-de-temperature/thermometres-infrarouges",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.fluke.com/fr/produits/mesure-de-temperature/thermometres-infrarouges",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.endress.com",
+    "classification": "competitor",
+    "total_url_count": 5,
+    "num_urls": 4,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.fr.endress.com/fr/instrumentation-terrain-sur-mesure/technologies-mesure-communication-industrielle/integration-numerique/IO-Link",
+        "count": 2,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.fr.endress.com/fr/field-instruments-overview/mesure-temperature/transmetteurs-temperature",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.fr.endress.com/fr/field-instruments-overview/mesure-temperature/transmetteur-temperature-TMT71",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.fr.endress.com/fr/field-instruments-overview/mesure-temperature/capteurs-de-temperature-industriels",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "hilscher.com",
+    "classification": "competitor",
+    "total_url_count": 5,
+    "num_urls": 5,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.hilscher.com/fr/technologie/iot-industriel/protocoles-iiot-opc-ua-et-mqtt",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hilscher.com/fr/technologie/netfield-iot-industriel/protocoles-iiot-opc-ua-et-mqtt",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hilscher.com/fr/produits/maitre-io-link-pour-ethernet-industriel",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hilscher.com/na/products/io-link-master-for-industrial-ethernet",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hilscher.com/products/io-link-master-for-industrial-ethernet",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "intempco.com",
+    "classification": "other",
+    "total_url_count": 5,
+    "num_urls": 5,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://intempco.com/fr-ca/products/Temperature/Transmitters/RT812",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://intempco.com/fr-ca/products/Temperature/Transmitters/TT810",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.intempco.com/fr-ca/products/Temperature/Transmitters/RT810",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.intempco.com/fr-ca/products/Temperature/Transmitters/TT810D",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.intempco.com/fr-ca/products/Temperature/Transmitters/TT810",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "kuebler.com",
+    "classification": "competitor",
+    "total_url_count": 5,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.kuebler.com/fr/solutions/io-link",
+        "count": 5,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "pce-france.fr",
+    "classification": "other",
+    "total_url_count": 5,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.pce-france.fr/mesureurs/mesureurs-temperature-contact.htm",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pce-france.fr/mesureurs/mesureurs-temperature-sans-contact.htm",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.pce-france.fr/mesureurs/thermometres-infrarouges.htm",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sick.com",
+    "classification": "competitor",
+    "total_url_count": 5,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sick.com/fr/fr/pourquoi-utiliser-io-link-pour-vos-mesures-process-en-instrumentation-industrielle/w/avantages-IO-link-en-mesure-de-process",
+        "count": 4,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.sick.com/media/docs/3/03/803/special_information_smart_sensors_en_im0069803.pdf",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "tecnoland.fr",
+    "classification": "other",
+    "total_url_count": 5,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 5,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.tecnoland.fr/maquette-industrie40-io-link-avantages/",
+        "count": 4,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.tecnoland.fr/fonctionnement-de-lio-link/",
+        "count": 1,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "agro-media.fr",
+    "classification": "other",
+    "total_url_count": 4,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 1797,
+    "best_platform": "1ereplace",
+    "traffic": 1383,
+    "dr": 61,
+    "tf": 22,
+    "marketplaces": {
+      "Paperclub": 2233,
+      "1ereplace": 1797,
+      "Prensalink": 2405
+    },
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.agro-media.fr/actualite/pourquoi-utiliser-io-link-pour-vos-mesures-process-en-instrumentation-industrielle-34225.html/",
+        "count": 3,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.agro-media.fr/dossier/ia-capteurs-et-robotique-la-nouvelle-ere-des-usines-agroalimentaires-intelligentes",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "conatex.com",
+    "classification": "other",
+    "total_url_count": 4,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.conatex.com/fr/environnement/experiences-avec-des-capteurs-pasport/mesure-de-la-temperature-sans-contact/capteur-de-temperature-sans-contact-70-c-a-380-c.html",
+        "count": 4,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.metoree.com",
+    "classification": "other",
+    "total_url_count": 4,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://fr.metoree.com/categories/non-contact-temperature-sensor/",
+        "count": 4,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "microsonic.de",
+    "classification": "competitor",
+    "total_url_count": 4,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.microsonic.de/fr/support/faits-interessants/io-link.htm",
+        "count": 3,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?Pourquoi passer à IO-Link plutôt que rester en analogique ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.microsonic.de/en/support/interesting-facts/io-link.htm",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "niuboliot.com",
+    "classification": "other",
+    "total_url_count": 4,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.niuboliot.com/Product-knowledge/How-does-an-ambient-temperature-sensor-work.html",
+        "count": 4,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "omron-ap.com",
+    "classification": "competitor",
+    "total_url_count": 4,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.omron-ap.com/solutions/others/families/io-link/benefit-predictivemaintenance/",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.omron-ap.com/solutions/others/families/io-link/benefit-predictivemaintenance-2/",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "optex-fa.com",
+    "classification": "competitor",
+    "total_url_count": 4,
+    "num_urls": 4,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.optex-fa.com/tech_guide/io_link/guide/index_00.php",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.optex-fa.com/tech_guide/io_link/guide/index_05.php",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.optex-fa.com/tech_guide/io_link/guide/",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.optex-fa.com/tech_guide/io_link/guide/index_03.php",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "reddit.com",
+    "classification": "special",
+    "total_url_count": 4,
+    "num_urls": 4,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 29,
+    "best_platform": "linkpublishers",
+    "traffic": 999725398,
+    "dr": 95,
+    "tf": 79,
+    "marketplaces": {
+      "Linkpublishers": 29
+    },
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.reddit.com/r/PLC/comments/1k4kuve",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.reddit.com/r/PLC/comments/1rnrxzh/iolink_how_often_do_you_utilize_it/",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.reddit.com/r/PLC/comments/11a4vxq",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.reddit.com/r/PLC/comments/jqdad7",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "solderic.com",
+    "classification": "other",
+    "total_url_count": 4,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://solderic.com/sensor/thermocouple-vs-rtd",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      },
+      {
+        "url": "https://solderic.com/sensor/rtd-sensor-vs-thermocouple",
+        "count": 1,
+        "prompts": "RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "wenglor.com",
+    "classification": "competitor",
+    "total_url_count": 4,
+    "num_urls": 4,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 4,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.wenglor.com/fr/Mesure-de-la-temperature-corporelle/a/076",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.wenglor.com/fr/Mesure-de-temperature-dans-le-cadre-de-la-production-de-briques-avec-un-capteur-de-temperature/a/191",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.wenglor.com/fr/Capteurs/Capteurs-optoelectroniques/Capteurs-de-temperature-pour-mesure-sans-contact/c/cxmCID197623",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.wenglor.com/fr/Capteurs/Capteurs-optoelectroniques/Capteurs-de-temperature-pour-mesure-sans-contact/Capteur-de-temperature-pour-mesure-sans-contact/p/TIF352U0089",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "acoris.fr",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.acoris.fr/mesure-de-temperature-sans-contact.htm",
+        "count": 3,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "automation.omron.com",
+    "classification": "competitor",
+    "total_url_count": 3,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://automation.omron.com/pt/br/blog/io-link-improves-maintenance-and-sensor-reconfiguration",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://automation.omron.com/es/us/blog/io-link-improves-maintenance-and-sensor-reconfiguration",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      },
+      {
+        "url": "https://automation.omron.com/fr/ca/blogue/io-link-improves-maintenance-and-sensor-reconfiguration",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "bannerengineering.com",
+    "classification": "competitor",
+    "total_url_count": 3,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.bannerengineering.com/fr/fr/products/technologies/io-link-sensors-lighting/sensors-with-io-link.html",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.bannerengineering.com/fr/fr/products/remote-io/io-link-masters/dxmr90-ethernet-io-link-master.html",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.bannerengineering.com/fr/fr/products/remote-io/io-link-masters/dxmr110-io-link-master.html",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "directindustry.fr",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.directindustry.fr/fabricant-industriel/capteur-temperature-pt100-104776.html",
+        "count": 2,
+        "prompts": "Comment choisir un capteur de température pour mon application ?Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.directindustry.fr/fabricant-industriel/capteur-temperature-sans-contact-199244.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "hbkworld.com",
+    "classification": "competitor",
+    "total_url_count": 3,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.hbkworld.com/en/solutions/applications/smart-sensors/IO-Link-Sensors-help-you-digitalise-your-industrial-processes",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hbkworld.com/fr/solutions/applications/smart-sensors/IO-Link-Sensors-help-you-digitalise-your-industrial-processes",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.hbkworld.com/fr/products/transducers/smart-sensors-io-link",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "heaterguides.com",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://heaterguides.com/differences-between-thermocouples-and-rtds/",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "keller.de",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 3,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.keller.de/fr/its/rapports/principes-de-base/principes-de-base-de-la-mesure-de-temperature-par-infrarouge/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.keller.de/fr/its/io-link/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://www.keller.de/en/its/reports/basics/io-link/",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "schmalz.com",
+    "classification": "competitor",
+    "total_url_count": 3,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.schmalz.com/fr/support/savoir-faire/glossaire/io-link",
+        "count": 2,
+        "prompts": "Quels sont les avantages concrets d'IO-Link en industrie ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.schmalz.com/en-fr/support/know-how/glossary/io-link",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "smbom.com",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.smbom.com/news/46031",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "surecontrols.com",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.surecontrols.com/blog/rtd-vs-thermocouple/",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "tc.co.uk",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.tc.co.uk/thermocouple-information/rtd-vs-thermocouple.html",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "tcsa.fr",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 3,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.tcsa.fr/thermocouples/capteurs_de_temperature.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.tcsa.fr/thermocouple-reference/types-de-thermocouples.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.tcsa.fr/thermocouples/thermocouples.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "thermocoupleinfo.com",
+    "classification": "other",
+    "total_url_count": 3,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 3,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.thermocoupleinfo.com/thermocouple-vs-RTD.htm",
+        "count": 3,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "analog.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.analog.com/en/solutions/industrial-automation-technology/industrial-sensors-and-field-instruments/smart-factory-io-link-master.html",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.analog.com/en/solutions/industrial-automation/industrial-sensors-and-field-instruments/smart-factory-io-link-master.html",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "app.studyraid.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://app.studyraid.com/fr/read/57662/2780980/quel-est-linteret-dio-link-pour-la-maintenance-predictive",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "application-iot.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.application-iot.fr/maintenance-predictive-iot/",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "blog.integral-system.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://blog.integral-system.fr/quest-ce-que-le-lwm2m-le-protocole-de-communication-pour-liot/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      },
+      {
+        "url": "https://blog.integral-system.fr/protocole-opc-ua/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "blog.wika.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://blog.wika.com/fr/savoir-faire/fonctionnement-de-l-io-link/",
+        "count": 2,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "buehler-technologies.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.buehler-technologies.com/fr/fluidcontrol/homologationsspecifications/io-link",
+        "count": 2,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "coretigo.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.coretigo.com/products/tigostarter-development-kits/",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.coretigo.com/products/tigostarter-evaluation-kits/",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "distrilabo.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.distrilabo.com/temperature/121-sonde-pt-100.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.distrilabo.com/temperature/121-sonde-pt100.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "e2s-metrologie.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.e2s-metrologie.fr/capteur-haute-temperature-comment-choisir-le-modele-adapte-a-vos-besoins/",
+        "count": 2,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "epluse.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.epluse.com/fr/produits/humidite-relative/transmetteurs-dhumidite-pour-applications-industrielles/ee210/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.epluse.com/fr/produits/humidite-relative/transmetteurs-dhumidite-pour-applications-industrielles/hts801/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "faure-technologies.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.faure-technologies.com/les-composants-io-link",
+        "count": 2,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.farnell.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.farnell.com/sensor-temperature-sensor-technology",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.kamet-trading.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.kamet-trading.com/faq/comment-choisir-la-bonne-technologie-de-capteur-rtd-ou-thermocouples/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://fr.kamet-trading.com/faq/quels-les-types-de-thermocouples-haute-temperature-disponibles/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "gotronic.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.gotronic.fr/cat-infrarouge-et-de-presence-1132.htm",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.gotronic.fr/cat-capteurs-infrarouges-1807.htm",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "icrfq.net",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.icrfq.net/rtd-vs-thermocouple/",
+        "count": 2,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "iotindustriel.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 249,
+    "best_platform": "ereferer",
+    "traffic": 1385,
+    "dr": 28,
+    "tf": 17,
+    "marketplaces": {
+      "Ereferer": 249,
+      "Whitepress": 401,
+      "Prnews": 745,
+      "Backlinked": 969,
+      "Bazoom": 840
+    },
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://iotindustriel.com/iot-iiot/iot-les-principaux-reseaux-et-protocoles/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      },
+      {
+        "url": "https://iotindustriel.com/guides/protocoles-de-communication/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "jumo.group",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.jumo.group/ro/en/services/faq/io-link",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.jumo.group/language-masters/no/services/faq/io-link",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "lapp.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.lapp.com/en_GB/gb/GBP/e/000271",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.lapp.com/fr_CA/ca/solutions/communication-industrielle/normes-de-protocoles/fieldbus-bus-de-terrain/e/000271",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "leuze.com",
+    "classification": "competitor",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.leuze.com/fr-fr/produits/reseau-et-connectique/unites-de-branchement/unites-de-branchement-io-link#:~:text=R%C3%A9duction%20des%20co%C3%BBts%20gr%C3%A2ce%20%C3%A0%20une%20maintenance,transmet%20automatiquement%20le%20param%C3%A9trage%20au%20nouvel%20appareil.",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.leuze.com/fr-fr/technologies/io-link",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "manutan.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.manutan.fr/blog/conseils/capteur-temperature-guide-achat-critere-cle-2/",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "mesimedical.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.mesimedical.com/fr/thermometres-quel-type-utiliser-contact-ou-sans-contact",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.mesimedical.com/fr/thermometres-quel-type-utiliser-contact-ou-sans-contact/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ni.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ni.com/fr/shop/data-acquisition/sensor-fundamentals/measuring-temperature-with-thermocouples-rtds-and-thermistors.html",
+        "count": 2,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "omega.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.omega.fr/prodinfo/thermometres-infrarouges.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.omega.fr/prodinfo/capteur-temperature-industriel.html",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "omron.com.au",
+    "classification": "competitor",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.omron.com.au/solutions/others/families/io-link/benefit-predictivemaintenance/",
+        "count": 2,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "opencircuit.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://opencircuit.fr/liste/infrarood-sensoren",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      },
+      {
+        "url": "https://opencircuit.fr/liste/infrared-sensors",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "openpr.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": true,
+    "best_price": 27,
+    "best_platform": "linkpublishers",
+    "traffic": 164517,
+    "dr": 80,
+    "tf": 22,
+    "marketplaces": {
+      "Develink": 677,
+      "Paperclub": 554,
+      "Mistergoodlink": 101,
+      "Linkpublishers": 27,
+      "Growwer": 409,
+      "Linkbroker": 345,
+      "Prnews": 113,
+      "Backlinked": 315,
+      "Bazoom": 130,
+      "Purolink": 160,
+      "Motherlink": 310,
+      "Guestpostlinks": 39,
+      "Meup": 127,
+      "Getalink": 167
+    },
+    "domain_count": 2,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.openpr.com/news/1503017/the-top-players-io-link-market-industry-siemens-balluff-ifm-electronic-sick-rockwell-automation-festo-omron-banner-engineering-in-2026.html",
+        "count": 2,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "plantautomation-technology.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 455,
+    "best_platform": "bazoom",
+    "traffic": 5642,
+    "dr": 49,
+    "tf": 17,
+    "marketplaces": {
+      "Linkpublishers": 509,
+      "Linkbroker": 545,
+      "Bazoom": 455,
+      "Guestpostlinks": 726,
+      "Meup": 846
+    },
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.plantautomation-technology.com/articles/difference-between-rtd-and-thermocouple",
+        "count": 2,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "polytec.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.polytec.com/fr/velocimetrie/produits/autres-capteurs/capteurs-de-temperature",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "rg2i.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.rg2i.com/capteurs-de-temperature-et-dhumidite/",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "scientax.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.scientax.com/capteur-de-temperature-thermocouples-et-pt100/",
+        "count": 2,
+        "prompts": "Comment choisir un capteur de température pour mon application ?Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "smc.eu",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.smc.eu/fr-fr/solutions/io-link",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.smc.eu/en-eu/news-and-events/the-smc-expertise-hub/experts-article-predictive-maintenance-pmmm",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "srcsl.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://srcsl.com/fr/catalogue/capteurs-de-temperature-sans-contact/",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "supplyline.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://supplyline.com/product/ifm/055/055040/055040050010/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": true
+      },
+      {
+        "url": "https://supplyline.com/product/ifm/055/055090/",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "support.octopus-haccp.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://support.octopus-haccp.com/-capteurs-de-temp%C3%A9rature-comment-fonctionnent-ils-",
+        "count": 2,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "symestic.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.symestic.com/en-us/what-is/io-link",
+        "count": 2,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "thermometre.fr",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.thermometre.fr/blogs/guide-thermometre/quel-thermometre-sans-contact-choisir",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.thermometre.fr/blogs/les-thermocouples/quels-sont-les-differents-types-de-thermocouples",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "worldofinstrumentation.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://worldofinstrumentation.com/thermocouple-vs-rtd-a-complete-selection-guide/",
+        "count": 2,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "zoneindustrie.com",
+    "classification": "other",
+    "total_url_count": 2,
+    "num_urls": 2,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 2,
+    "ifm_mention_pct": "50.0%",
+    "urls": [
+      {
+        "url": "https://www.zoneindustrie.com/produits/Mesure-Controle-Instrumentation/Capteurs-detecteurs-sondes/Capteur-de-temperature-Transmetteur-de-Temperature/Pyrometre-miniature-CM-17485.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      },
+      {
+        "url": "https://www.zoneindustrie.com/produits/Mesure-Controle-Instrumentation/Mesure-controle-des-grandeurs-physiques/Mesure-de-temperature/Scanner-de-temperature-surveillance-de-temperature/Systeme-modulaire-de-mesure-de-temperature-sans-contact-17488.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "a4.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.a4.fr/wio-link-starter-kit.html",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "abadcontrols.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.abadcontrols.com/fr/temperature-189526/capteurs-et-indicateurs/capteurs-de-temperature/",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "agrotic.org",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.agrotic.org/veille/capteurs-et-intelligence-des-objets-en-industrie-agroalimentaire-maintenance-predictive/",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "althensensors.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.althensensors.com/fr/industries/alimentation-et-emballage/",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "apuissance3.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://apuissance3.com/produit/transmetteur-xt42-niv-4-20ma-temperature-potentiometre/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "arm-mesures.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.arm-mesures.fr/domaines-dexpertises/agroalimentaire/",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ashcroft.eu",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://ashcroft.eu/product/itt2-transmetteur-de-temperature-industriel-pour-capteurs-thermocouples-tc/?lang=fr",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ato.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ato.com/rtd-vs-thermocouple",
+        "count": 1,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "automation24.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.automation24.com/io-link-master-starter-kit-ifm-electronic-zz1350#:~:text=M12%20screw%20plug%20with%20SPEEDCON%20-%20fast,34%20%25%20RRP:%206%2C07%20%E2%82%AC%204%2C00%20%E2%82%AC",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "automationdirect.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.automationdirect.com/adc/overview/catalog/field_i-z-o/io-link/io-link_masters",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "automationworld.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 2595,
+    "best_platform": "prnews",
+    "traffic": 6260,
+    "dr": 74,
+    "tf": 47,
+    "marketplaces": {
+      "Prnews": 2595
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.automationworld.com/products/networks/blog/13315861/io-link-and-the-industrial-internet-of-things",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "boutique.semageek.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://boutique.semageek.com/fr/825-capteur-de-distance-ir-avec-cable-10cm-80cm-gp2y0a21yk0f-3006445492575.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "btib.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.btib.fr/sondes-capteurs/tx-temp-ins-600-031/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "buhlergroup.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.buhlergroup.com/global/fr/process-technologies/capteurs-detecteurs-industriels.html",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "cometsystem.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.cometsystem.fr/produits/transmetteur-de-temperature-t4111-avec-sortie-4-20-ma/reg-t4111",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "conseils.hellopro.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 947,
+    "best_platform": "linkavista",
+    "traffic": 40164,
+    "dr": 56,
+    "tf": 15,
+    "marketplaces": {
+      "Ereferer": 1015,
+      "Linkavista": 947,
+      "Paperclub": 1078
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://conseils.hellopro.fr/combien-coute-une-sonde-de-temperature-et-d-hygrometrie-2478.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "correge.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.correge.fr/les-principaux-types-de-thermocouples/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "cqpm.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 139,
+    "best_platform": "ereferer",
+    "traffic": 190,
+    "dr": 35,
+    "tf": 17,
+    "marketplaces": {
+      "Ereferer": 139,
+      "Linkavista": 231,
+      "Bazoom": 330
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://cqpm.fr/les-capteurs-de-temperature-haute-temperature-et-leur-application-pour-lindustrie/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "degre5.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.degre5.com/fr/capteurs-transmetteurs_f52/sortie-analogique-et-numerique_c360/temperature_t34/temp-wm-transmetteur-de-temperature-mural-sortie-4-20ma-novus_fiche_3579.html",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "dev.intempco.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.dev.intempco.com/fr-ca/products/Temperature/Transmitters/RT810D",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "difatec.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.difatec.com/-PT100-.html",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "digikey.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.digikey.com/en/product-highlight/p/pepperl-fuchs/iiot-starter-kits-with-io-link-masters",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "distrimedia.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.distrimedia.fr/produit/iolink-master/",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "diteltec.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.diteltec.fr/panneaux-numeriques/isolateurs-et-convertisseurs/transmetteur-rtd-a-4-20ma-actif-passif-kos819a/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "dplusa.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.dplusa.fr/produit/master-io-link/",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ege-elektronik.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ege-elektronik.com/technologies/io-link/",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "electronicdesign.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 1956,
+    "best_platform": "prnews",
+    "traffic": 6548,
+    "dr": 76,
+    "tf": 55,
+    "marketplaces": {
+      "Prnews": 1956
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.electronicdesign.com/technologies/embedded/article/21800926/whats-the-difference-between-io-link-and-discrete-sensor-interfaces",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "elecxsensors.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://elecxsensors.fr/",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "elgo.de",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.elgo.de/fr/produits/systemes-de-mesure/mesure-de-la-longueur-absolue/capteur-emax-avec-io-link/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "eltra-trade.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://eltra-trade.com/products/ifm-electronic-al1304",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "en.wikipedia.org",
+    "classification": "special",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 411,
+    "best_platform": "prnews",
+    "traffic": 1922152768,
+    "dr": 97,
+    "tf": 92,
+    "marketplaces": {
+      "Prnews": 411
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://en.wikipedia.org/wiki/IO-Link",
+        "count": 1,
+        "prompts": "C'est quoi IO-Link et comment ça fonctionne avec des capteurs ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ethercat.org",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ethercat.org/en/products/CE8147ABF5B7496AB45D8905FE710DD2.htm",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "factorysystemes.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.factorysystemes.fr/offres/constructeurs-de-machines/communication-industrielle/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fashionssimple.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fashionssimple.com/io-link-vs-traditional-fieldbus-systems-a-comparative-guide/",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "femmes-references.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.femmes-references.com/sante-bien-etre/thermometre-sans-contact/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.digi.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.digi.com/blog/post/how-do-iot-devices-communicate",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.hannaservice.eu",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.hannaservice.eu/sonde-de-temperature-industrielle-acier-inoxydable-pt100-hi7610-product",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.tosidasensor.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.tosidasensor.com/knowledge/pt100-vs-thermocouple-which-sensor-wins-in-industrial-applications",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fr.wepower-electronic.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://fr.wepower-electronic.com/product/pt100-to-4-20ma-module/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "franceinfrarouge.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.franceinfrarouge.fr/boutique/tests-et-mesures/thermometres/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "fujielectric.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.fujielectric.fr/technologies/indicateur-transmetteur-de-temperature-hart/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "generationrobots.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.generationrobots.com/fr/403975-capteur-infrarouge-irss-10.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "guilcor.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.guilcor.fr/sonde-pt100/5817-capteur-pt100-pt1000-avec-sonde-filetee.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "hellopro.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.hellopro.fr/sonde-de-temperature-et-d-hygrometrie-2007373-fr-1-feuille.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "hightechplace.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.hightechplace.com/capteur-reflechissant-infrarouge-waveshare.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "hotair.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.hotair.fr/instruments-de-mesure/thermom-tres-infrarouge-sans-contact/p-1-24.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "iaasiaonline.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 3125,
+    "best_platform": "prnews",
+    "traffic": 109,
+    "dr": 37,
+    "tf": 11,
+    "marketplaces": {
+      "Paperclub": 4290,
+      "Prnews": 3125
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.iaasiaonline.com/io-link-instead-of-fieldbus/",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "industrialautomation.be",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 1116,
+    "best_platform": "paperclub",
+    "traffic": 174,
+    "dr": 28,
+    "tf": 17,
+    "marketplaces": {
+      "Paperclub": 1116
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.industrialautomation.be/control-network/io-link/",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "industrialmonitordirect.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://industrialmonitordirect.com/blogs/knowledgebase/rtd-vs-thermocouple-technical-specifications-selection-and-implementation-guide",
+        "count": 1,
+        "prompts": "RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "industry.panasonic.eu",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://industry.panasonic.eu/fr/produits/dispositifs-et-solutions-dautomatisme/capteurs-pour-automatisme-industriel/capteurs-io-link",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "intelligenceindustrielle.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.intelligenceindustrielle.com/blog/comment-connecter-vos-machines-protocoles-et-iot",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "isa.org",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.isa.org/intech-home/2016/may-june/features/io-link-field-device-protocol-architecture",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "itlink.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.itlink.fr/success-stories/predictive-maintenance",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "jeulin.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://jeulin.com/polytech_fr/polytech/mesure-environnement/temperature/sonde-pt100.html",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "jri-mms.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://jri-mms.com/produit/transmetteur-de-temperature-et-dhygrometrie-de-precision-industriel-ambiant",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "jumia.ci",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.jumia.ci/generic-detecteur-de-mouvement-infrarouge-capteur-de-securite-automatique-32137281.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "knowhow.distrelec.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://knowhow.distrelec.com/fr/aliments-et-boissons/limpact-de-la-technologie-des-capteurs-sur-lindustrie-alimentaire/",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "lamonde.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.lamonde.com/products/field-io/io-link/io-link-masters.html",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ledcontrols.co.uk",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ledcontrols.co.uk/yl212cei8m1io-io-link-master-ethernet-opc-ua-8-ports-ip67.html",
+        "count": 1,
+        "prompts": "Existe-t-il des solutions IO-Link pas chères pour petites installations ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "lexhan-group.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.lexhan-group.fr/blog/connectivite/protocoles-iot-pour-objets-connectes/",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "lindustrie40.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://lindustrie40.fr/hbk-revolutionne-la-mesure-de-force-avec-integration-io-link-dans-ses-capteurs-industriels/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "lq-group.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.lq-group.com/en/news/guidebook/what-is-an-io-link-system/",
+        "count": 1,
+        "prompts": "De quoi j'ai besoin pour mettre en place un système IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "magicprices.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 133,
+    "best_platform": "linkavista",
+    "traffic": 19,
+    "dr": 39,
+    "tf": 15,
+    "marketplaces": {
+      "Ereferer": 257,
+      "Linkavista": 133,
+      "Boosterlink": 234
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://magicprices.fr/prix/2819565/hikvision-capteur-pir-infrarouge-sans-fil-868-mhz-pour-animaux-ax-pro",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "medicaccess.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.medicaccess.fr/thermometres-oxymetre/75-thermometre-frontal-infrarouge-sans-contact.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "medisafe.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 610,
+    "best_platform": "poprise",
+    "traffic": 59047,
+    "dr": 56,
+    "tf": 21,
+    "marketplaces": {
+      "Poprise": 610
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.medisafe.fr/blog/thermometre-sans-contact-mesure-temperature/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "mesurez.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.mesurez.com/content/choisir-capteur-temperature-thermocouple.html",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "micro-epsilon.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.micro-epsilon.fr/newsroom/article/io-link-integration-laser-distance-sensors-into-industrial-environments/",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "minco.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.minco.com/rtd-vs-thermocouple/",
+        "count": 1,
+        "prompts": "RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "motionworld.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.motionworld.com/products/252035/sick-io-link-starter-kit",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "neokasa.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.neokasa.fr/capteur-temperature/capteur-temperature-sans-fil",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "novusautomation.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.novusautomation.com/fr/produit/humidite-et-temperature/rht-climate",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "omron.co.id",
+    "classification": "competitor",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.omron.co.id/solutions/others/families/io-link/benefit-predictivemaintenance/",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "omron.com.vn",
+    "classification": "competitor",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.omron.com.vn/solutions/others/families/io-link/benefit-predictivemaintenance/",
+        "count": 1,
+        "prompts": "Comment IO-Link peut aider à faire de la maintenance prédictive ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "pratikelec.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.pratikelec.fr/1874-sonde-pt100",
+        "count": 1,
+        "prompts": "Quel budget pour équiper une ligne complète en capteurs de température ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "processsensing.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://www.processsensing.com/fr-fr/produits/temperature-humidity-transmitter-dt722.htm",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "profibus.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.profibus.com/technologies/io-link?cHash=46dd10a67b5f0033feaaed3f737af93a&mdrv=www.profibus.com",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "prosensor.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.prosensor.fr/rechercher.asp?modele=4&type=2",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "ptc.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.ptc.com/fr/technologies/iiot/industrial-connectivity",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "pyrocontrole.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.pyrocontrole.com/fr/actualites/guide-de-choix-capteurs-cadid",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "raspberry.ma",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.raspberry.ma/capteur-thermocouple-pt100-pour-temperature-industrielle-test-et-avis/",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "renesas.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.renesas.com/en/applications/industrial/industrial-automation/io-link-master",
+        "count": 1,
+        "prompts": "Quels sont les meilleurs maîtres IO-Link pour une ligne de production ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "resistanceelectrique.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.resistanceelectrique.com/produits/controle-de-la-temperature/thermocouples/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "robot-maker.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 424,
+    "best_platform": "paperclub",
+    "traffic": 1176,
+    "dr": 30,
+    "tf": 16,
+    "marketplaces": {
+      "Paperclub": 424,
+      "Backlinked": 563,
+      "Bazoom": 430
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.robot-maker.com/shop/capteurs/121-capteur-infrarouge-hc-sr501-121.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sensors.nl",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sensors.nl/fr/product/hsm-i-instelbaar-meetbereik-pt100-pt1000-4-20ma-meetomvormer-voor-temperaturen-din-railmontage/",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "servinstrumentation.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.servinstrumentation.fr/produits/pt100-thermocouples.php",
+        "count": 1,
+        "prompts": "Comment choisir un capteur de température pour mon application ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "shop.hartfiel.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://shop.hartfiel.com/products/IO-Link%20Starterkit",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sirris.be",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sirris.be/fr/inspiration/advanced-manufacturing/opc-ua-omlox-normes",
+        "count": 1,
+        "prompts": "Quel est le meilleur protocole pour une machine OEM connectée ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "sonepar.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.sonepar.fr/catalog/fr-fr/products/baumer-io-link-starter-kit-00149019107",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "stego-group.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.stego-group.com/fr/stego-blog/iolink-industrial-plantations-intelligent-automatization",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "steute-controltec.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.steute-controltec.com/fr/branches-industrielles/industrie-agro-alimentaire",
+        "count": 1,
+        "prompts": "Quels capteurs utiliser en agroalimentaire ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "support.sick.com",
+    "classification": "competitor",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://support.sick.com/sick-knowledgebase/article?id=30fff02d-e7ae-4592-9032-1d5d89751de4",
+        "count": 1,
+        "prompts": "Quelle différence entre IO-Link et les bus de terrain industriels ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "tamo.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": true,
+    "best_price": 679,
+    "best_platform": "ereferer",
+    "traffic": 4301,
+    "dr": 11,
+    "tf": 14,
+    "marketplaces": {
+      "Ereferer": 679,
+      "Paperclub": 4127
+    },
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.tamo.fr/thermometre-sans-contact-infrarouge",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "test-and-measurement-world.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.test-and-measurement-world.com/measurements/temperature/rtd-vs-thermocouple",
+        "count": 1,
+        "prompts": "RTD ou thermocouple : lequel est le plus précis ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "testbook.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://testbook.com/physics/difference-between-rtd-and-thermocouple",
+        "count": 1,
+        "prompts": "Quelle différence entre thermocouple et sonde RTD ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "thermal-engineering.org",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.thermal-engineering.org/fr/4-types-de-thermocouples-pour-la-mesure-des-hautes-temperatures/",
+        "count": 1,
+        "prompts": "Quel capteur pour des températures très élevées ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "trakmy.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://trakmy.fr/quel-traceur-gps-voiture-choisir/#:~:text=Le%2069K%20fait%20r%C3%A9f%C3%A9rence%20%C3%A0%20la%20capacit%C3%A9,difficiles%20avec%20un%20nettoyage%20%C3%A0%20haute%20pression/vapeur.",
+        "count": 1,
+        "prompts": "Quels capteurs de process IO-Link sont les plus fiables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "truckcranesespares.co.uk",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": true,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "100.0%",
+    "urls": [
+      {
+        "url": "https://truckcranesespares.co.uk/product/ifm-io-link-component-io-link-vvb-starter-kit-zz0809/",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": true
+      }
+    ]
+  },
+  {
+    "url_domain": "turck.de",
+    "classification": "competitor",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.turck.de/en/product/100012813",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "turckbanner.fr",
+    "classification": "competitor",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.turckbanner.fr/fr/product/100012813",
+        "count": 1,
+        "prompts": "Combien coûte un kit de démarrage IO-Link ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "tzonetemperature.com",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.tzonetemperature.com/fr/Temperature-transmitters-for-industrial-automation-Heres-your-buying-guide",
+        "count": 1,
+        "prompts": "Combien coûte un transmetteur de température intelligent ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "urgo.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://urgo.fr/produits/urgo-thermometre-sans-contact/",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "videosurveillance-boutique.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.videosurveillance-boutique.fr/camera-surveillance-analogique-960h-infrarouge-pas-cher.html",
+        "count": 1,
+        "prompts": "Existe-t-il des capteurs infrarouges abordables ?",
+        "cited": false
+      }
+    ]
+  },
+  {
+    "url_domain": "y-ic.fr",
+    "classification": "other",
+    "total_url_count": 1,
+    "num_urls": 1,
+    "any_cited": false,
+    "accepts_sponsored": false,
+    "best_price": null,
+    "best_platform": null,
+    "traffic": null,
+    "dr": null,
+    "tf": null,
+    "marketplaces": {},
+    "domain_count": 1,
+    "ifm_mention_pct": "0.0%",
+    "urls": [
+      {
+        "url": "https://www.y-ic.fr/blog/Guide-to-Temperature-Sensors-How-They-Work%2CUses-and-Advantages.html",
+        "count": 1,
+        "prompts": "À quoi servent les capteurs de température sans contact ?",
+        "cited": false
+      }
+    ]
+  }
+]
